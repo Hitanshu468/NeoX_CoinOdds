@@ -1,6 +1,6 @@
-# High-Low Game - Decentralized Blockchain Game
+# CoinOdds - Decentralized Blockchain Game
 
-The High-Low Game is a decentralized game built on the blockchain, allowing players to predict whether the next number will be higher or lower than the previous one. This game integrates with smart contracts, ensuring a fair, transparent, and trustless gaming experience. Players can place bets and potentially win tokens by correctly predicting the outcomes.
+The CoinOdds is a decentralized game built on the blockchain, allowing players to predict whether the next number will be higher or lower than the previous one. This game integrates with smart contracts, ensuring a fair, transparent, and trustless gaming experience. Players can place bets and potentially win tokens by correctly predicting the outcomes.
 
 ## Features
 - Play the High-Low game by predicting if the next number will be higher or lower.
@@ -11,11 +11,11 @@ The High-Low Game is a decentralized game built on the blockchain, allowing play
 - Real-time updates for player balances, bet amounts, and attempts.
 
 ## Contract Details
-- Contract Address: 0x\<your_contract_address_here>
-- Network: Ethereum Testnet (e.g., Sepolia or Mantle Sepolia)
-
+- Contract Address: 0xe676Ede32C704D55D3d8B7840c2Cd8aaa5218c2f
+- MemeCoin Address: 0xd1d52B13d3c60a25628dfeB0CBA92C94B4759c97
+- Network: Neo X Testnet T4
 ## Deployment
-- Contract Address: View on Explorer
+- Contract Address: [View on Explorer](https://xt4scan.ngd.network/address/0xe676Ede32C704D55D3d8B7840c2Cd8aaa5218c2f)
 - Coin Used: MEME (or FINALCOIN) - FC
 
 ## How to Use
@@ -47,5 +47,8 @@ The frontend is designed to interact with the High-Low Game smart contract. It i
 - Implement a leaderboards system to reward top players.
 - Integration with IPFS to store game data and user statistics.
 
-## License
-This project is open source under the MIT License.
+## Images
+![h1](https://github.com/user-attachments/assets/c2afd4cc-4dff-470b-b5d4-aca21a733349)
+
+![h2](https://github.com/user-attachments/assets/aba266c0-8b3a-44b8-9c1a-bdbf4807e7d1)
+![h3](https://github.com/user-attachments/assets/775ca722-965a-4e29-bf10-6b36fa14ed0f)
